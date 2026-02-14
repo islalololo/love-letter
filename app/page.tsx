@@ -92,7 +92,7 @@ return (
     <main
       style={{
         minHeight: "100vh",
-        backgroundColor: "#f6f4f1",
+        backgroundColor: "#ffffff",
         color: "black",
         padding: "80px 120px",
         fontFamily: "var(--font-cormorant)",
