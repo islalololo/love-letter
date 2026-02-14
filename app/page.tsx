@@ -95,7 +95,7 @@ return (
         backgroundColor: "#ffffff",
         color: "black",
         padding: "80px 120px",
-        fontFamily: "var(--font-cormorant)",
+        fontFamily: "var(--font-inter)",
         position: "relative",
         zIndex: 1
       }}
@@ -123,7 +123,7 @@ return (
       style={{
         background: "none",
         border: "none",
-        fontFamily: "var(--font-playfair)",
+        fontFamily: "var(--font-inter)",
         cursor: "pointer",
         transition: "opacity 0.3s ease"
       }}
@@ -151,7 +151,7 @@ return (
       {/* TITLE */}
       <h1
         style={{
-          fontFamily: "var(--font-playfair)",
+          fontFamily: "var(--font-inter)",
           fontSize: "56px",
           letterSpacing: "3px",
           marginBottom: "10px"
@@ -197,7 +197,7 @@ return (
         >
           <h2
             style={{
-              fontFamily: "var(--font-playfair)",
+              fontFamily: "var(--font-inter)",
               fontSize: "26px",
               marginBottom: "30px"
             }}
@@ -229,7 +229,7 @@ return (
     marginTop: "30px",
     background: "none",
     border: "none",
-    fontFamily: "var(--font-playfair)",
+    fontFamily: "var(--font-inter)",
     fontSize: "16px",
     letterSpacing: "2px",
     cursor: "pointer",
@@ -254,7 +254,7 @@ return (
         <div style={{ paddingLeft: "60px" }}>
           <h2
             style={{
-              fontFamily: "var(--font-playfair)",
+              fontFamily: "var(--font-inter)",
               fontSize: "26px",
               marginBottom: "30px"
             }}
